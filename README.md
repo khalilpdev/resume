@@ -15,9 +15,17 @@ Este repositório contém meu portfólio profissional e materiais de contrataç�
 | Documento | Propósito | Público |
 |-----------|----------|---------|
 | **[resume-LEANDRO-KHALIL.md](./resume-LEANDRO-KHALIL.md)** | CV técnico detalhado em Inglês | Recrutadores internacionais |
+| **[curriculo-LEANDRO-KHALIL-pt-BR.md](./curriculo-LEANDRO-KHALIL-pt-BR.md)** | CV em Português | Recrutadores brasileiros |
 | **[REMOTE-JOBS.md](./REMOTE-JOBS.md)** | Opcões de engajamento (FT, Freelancer, Consulting) | Recrutadores remotos |
 | **[FREELANCER-PROJECTS.md](./FREELANCER-PROJECTS.md)** | Tipos de projetos e preços | Clientes procurando freelancer |
 | **[CHANGELOG.md](./CHANGELOG.md)** | Histórico de atualizações | Tracking de mudanças |
+
+### 📁 **Pastas de PDFs**
+
+| Pasta | Conteúdo | Nota |
+|-------|----------|------|
+| **PDF/** | PDFs atuais (versão mais recente) | ← Use para enviar |
+| **PDF_OLD_{timestamp}/** | Backups automáticos com histórico | Arquivados automaticamente |
 
 ---
 

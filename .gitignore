@@ -1,6 +1,6 @@
-# PDFs - Regenerados automaticamente
-pdfs/
-*.pdf
+# PDFs - Sistema de versionamento automático
+PDF/              # PDFs atuais (versão mais recente)
+PDF_OLD_*/        # Backups automáticos com timestamp
 
 # IDE & Editor
 .vscode/

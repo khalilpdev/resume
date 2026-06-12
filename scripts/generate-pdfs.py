@@ -2,10 +2,12 @@
 """
 Script para gerar PDFs a partir de arquivos Markdown.
 Suporta PT-BR e EN-US com CSS customizado para melhor formatação.
+Sistema automático de backup: PDFs antigos movem para PDF_OLD_{timestamp}
 """
 
 import os
 import sys
+import shutil
 from pathlib import Path
 from datetime import datetime
 from weasyprint import HTML, CSS
@@ -13,7 +15,7 @@ from io import StringIO
 
 # Define base path
 BASE_DIR = Path(__file__).parent.parent
-OUTPUT_DIR = BASE_DIR / "pdfs"
+OUTPUT_DIR = BASE_DIR / "PDF"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # CSS customizado para melhor formatação
@@ -250,11 +252,45 @@ def generate_pdf(md_file, output_name=None, title="Document"):
         print(f"❌ Erro ao gerar PDF: {e}")
         return False
 
+def backup_old_pdfs():
+    """
+    Move PDFs antigos para pasta PDF_OLD_{timestamp}.
+    Chamado antes de gerar novos PDFs.
+    """
+    pdf_files = list(OUTPUT_DIR.glob("*.pdf"))
+    
+    if not pdf_files:
+        return  # Nenhum PDF antigo para fazer backup
+    
+    # Cria timestamp: YYYY-MM-DD_HH-MM-SS
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    backup_dir = BASE_DIR / f"PDF_OLD_{timestamp}"
+    
+    try:
+        backup_dir.mkdir(exist_ok=True)
+        
+        # Move todos os PDFs para a pasta de backup
+        for pdf_file in pdf_files:
+            shutil.move(str(pdf_file), str(backup_dir / pdf_file.name))
+            print(f"📦 Backup: {pdf_file.name} → PDF_OLD_{timestamp}/")
+        
+        print(f"✅ PDFs antigos movidos para: {backup_dir.name}/")
+    except Exception as e:
+        print(f"⚠️  Aviso ao fazer backup: {e}")
+
 def main():
     """Gera todos os PDFs necessários."""
     print("=" * 60)
     print("📄 Gerando PDFs para Resume & Currículo")
     print("=" * 60)
+    
+    # Step 1: Fazer backup de PDFs antigos
+    if list(OUTPUT_DIR.glob("*.pdf")):
+        print("")
+        print("📦 Fazendo backup de PDFs antigos...")
+        backup_old_pdfs()
+    
+    print("")
     
     # Define os documentos a gerar
     documents = [
