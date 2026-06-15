@@ -296,6 +296,10 @@ def main():
     documents = [
         ("resume-LEANDRO-KHALIL.md", "RESUME-LEANDRO-KHALIL-en-US", "Leandro Khalil - Resume (EN-US)"),
         ("curriculo-LEANDRO-KHALIL-pt-BR.md", "CURRICULO-LEANDRO-KHALIL-pt-BR", "Leandro Khalil - Currículo (PT-BR)"),
+        ("versions/v2/resume-LEANDRO-KHALIL.md", "RESUME-LEANDRO-KHALIL-en-US-v2", "Leandro Khalil - Resume v2 (EN-US)"),
+        ("versions/v2/curriculo-LEANDRO-KHALIL-pt-BR.md", "CURRICULO-LEANDRO-KHALIL-pt-BR-v2", "Leandro Khalil - Currículo v2 (PT-BR)"),
+        ("versions/v3/resume-LEANDRO-KHALIL.md", "RESUME-LEANDRO-KHALIL-en-US-v3", "Leandro Khalil - Resume v3 (EN-US)"),
+        ("versions/v3/curriculo-LEANDRO-KHALIL-pt-BR.md", "CURRICULO-LEANDRO-KHALIL-pt-BR-v3", "Leandro Khalil - Currículo v3 (PT-BR)"),
         ("REMOTE-JOBS.md", "REMOTE-JOBS-en-US", "Remote Jobs & Freelancer Options (EN-US)"),
         ("FREELANCER-PROJECTS.md", "FREELANCER-PROJECTS-en-US", "Freelancer Projects Portfolio (EN-US)"),
     ]
