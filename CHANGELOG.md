@@ -4,6 +4,30 @@ Histórico de atualizações no portfólio profissional de Leandro Khalil.
 
 ---
 
+## [1.3.0] - 2026-06-15 📊 Versões de Currículo v2 (Métricas) & v3 (Liderança)
+
+### Added
+- ✅ **Nova pasta `versions/v2`** contendo currículos voltados a métricas e impacto:
+  - `resume-LEANDRO-KHALIL.md` (EN-US)
+  - `curriculo-LEANDRO-KHALIL-pt-BR.md` (PT-BR)
+  - Foco em resultados quantitativos de alta precisão (conforme regras Ágeis e ATS).
+- ✅ **Nova pasta `versions/v3`** contendo currículos voltados a Liderança Estratégica e Arquitetura:
+  - `resume-LEANDRO-KHALIL.md` (EN-US)
+  - `curriculo-LEANDRO-KHALIL-pt-BR.md` (PT-BR)
+  - Foco em gestão técnica (CTO/Lead Architect), alinhamento com executivos, design complexo de microsserviços (CQRS, Event Sourcing, DDD).
+
+### Improved
+- 🔄 **Otimização do .gitignore**: Corrigida a sintaxe de comentários na mesma linha de pastas ignoradas, assegurando que pastas temporárias e backups gerados localmente não poluam o controle de versão do Git.
+- ⚙️ **Automação do Gerador de PDFs**: Atualizado o script `scripts/generate-pdfs.py` para compilar automaticamente as novas versões v2 e v3 para PDFs otimizados.
+
+### Generated (Novos PDFs Prontos)
+- 📄 `RESUME-LEANDRO-KHALIL-en-US-v2.pdf`
+- 📄 `CURRICULO-LEANDRO-KHALIL-pt-BR-v2.pdf`
+- 📄 `RESUME-LEANDRO-KHALIL-en-US-v3.pdf`
+- 📄 `CURRICULO-LEANDRO-KHALIL-pt-BR-v3.pdf`
+
+---
+
 ## [1.2.0] - 2026-06-12 🚀 Automação de PDFs & Versionamento PT-BR/EN-US
 
 ### Added
