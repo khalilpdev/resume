@@ -33,9 +33,11 @@ Accomplished Senior Software Engineer with over 18 years of experience architect
 ### Senior C#/.NET Developer (SAP B1 Specialist) | Invent Software | Goiânia, GO
 *Nov 2023 - Oct 2024*
 
-- Spearheaded the development and architectural overhaul of complex fiscal modules for the TaxPlus add-on, ensuring full compliance with evolving state and federal regulations.
-- Optimized core C#/.NET algorithms and SQL query strategies, significantly reducing tax calculation processing time for high-volume transactions.
-- Championed code quality by introducing best practices in unit testing and design patterns, resulting in a measurable reduction in post-release bugs.
+- Worked as a Senior Developer / Level 3 Architect on the TaxPlus fiscal add-on, evolving complex tax modules based on client requests and changing state and federal regulations.
+- Delivered client-specific improvements and parameterized features, including FCI (Import Content Statement) scenarios.
+- Contributed to the development of SPED Fiscal Block K.
+- Optimized C#/.NET algorithms and SQL providers for SQL Server and SAP HANA, improving performance and reducing tax-processing time.
+- Supported code reviews for junior and mid-level developers, helping maintain technical consistency and delivery quality.
 
 ### Development Manager & Technical Lead | Atacadão Dia a Dia | Goiânia, GO
 *May 2022 - Sep 2023*
