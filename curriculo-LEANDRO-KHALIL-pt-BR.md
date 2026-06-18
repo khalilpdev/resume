@@ -33,9 +33,11 @@ Engenheiro de Software Sênior com **mais de 18 anos de experiência** arquiteta
 ### Desenvolvedor Sênior C#/.NET (Especialista em SAP B1) | Invent Software | Goiânia, GO
 *nov 2023 - out 2024*
 
-- Liderou desenvolvimento e sobrecarga arquitetural de módulos fiscais complexos do add-on TaxPlus, garantindo conformidade total com regulações estaduais e federais em evolução.
-- Otimizei algoritmos C#/.NET e estratégias de queries SQL, reduzindo significativamente tempo de processamento de cálculo de impostos para transações em alto volume.
-- Campeão de qualidade de código ao introduzir melhores práticas em testes unitários e design patterns, resultando em redução mensurável de bugs pós-release.
+- Atuação como Desenvolvedor Sênior / Arquiteto Nível 3 no add-on fiscal TaxPlus, com foco na evolução de módulos fiscais conforme demandas de clientes e mudanças regulatórias estaduais e federais.
+- Desenvolvimento de melhorias e funcionalidades parametrizadas conforme o cenário de cada cliente, incluindo FCI (Ficha de Conteúdo de Importação).
+- Participação no desenvolvimento do Bloco K do SPED Fiscal.
+- Otimização de algoritmos em C#/.NET e de provedores para SQL Server e SAP HANA, com foco em performance e redução de tempo de processamento.
+- Apoio na revisão de código de desenvolvedores júnior e pleno, contribuindo para padronização técnica e qualidade das entregas.
 
 ### Gerente de Desenvolvimento & Tech Lead | Atacadão Dia a Dia | Goiânia, GO
 *mai 2022 - set 2023*
