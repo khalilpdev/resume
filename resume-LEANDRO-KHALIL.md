@@ -6,7 +6,7 @@
 
 ## SENIOR FULL-STACK SOFTWARE DEVELOPER | C#/.NET & SAP BUSINESS ONE SPECIALIST
 
-Accomplished Senior Full-Stack Software Developer with over 18 years of experience designing, coding, and delivering enterprise applications, APIs, ERP integrations, and SQL-based solutions across the .NET ecosystem (C#, ASP.NET, Blazor, MAUI). Strong focus on hands-on software delivery, backend engineering, database design, and modernization of business-critical systems. Deep expertise in SAP Business One and S/4HANA integrations, with a delivery style centered on maintainable code, scalability, and technical consulting.
+Accomplished Senior Full-Stack Software Developer with over 18 years of experience designing, coding, and delivering enterprise applications, APIs, ERP integrations, and SQL-based solutions across the .NET ecosystem (C#, ASP.NET, Blazor, MAUI). Strong focus on hands-on software delivery, backend engineering, database design, and modernization of business-critical systems. Deep expertise in SAP Business One integrations, with technical leadership experience on an SAP S/4HANA project, and a delivery style centered on maintainable code, scalability, and technical consulting.
 
 ---
 
@@ -15,7 +15,7 @@ Accomplished Senior Full-Stack Software Developer with over 18 years of experien
 - **Languages & Frameworks:** C#, .NET Core/.NET 5+, ASP.NET, Blazor, MAUI, LINQ, Entity Framework Core, SignalR
 - **Backend & Full-Stack:** RESTful API Design, Full-Stack Development, Event-Driven Architecture, Microservices, Clean Architecture
 - **Cloud-Native:** Docker, Redis, Linux, Azure, AWS
-- **ERP & Integration Platforms:** SAP Business One (UI API, DI API, Service Layer), SAP S/4HANA
+- **ERP & Integration Platforms:** SAP Business One (UI API, DI API, Service Layer)
 - **Databases:** PostgreSQL, Microsoft SQL Server (2005-2022), SAP HANA (SQL Script), T-SQL, Stored Procedure Optimization
 - **Tools & Concepts:** Git, Visual Studio, Ubuntu Server, Agile/Scrum, OOP, Design Patterns, Clean Code
 

@@ -34,7 +34,7 @@ Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado e
 
 ## 🔄 Tipo 2: ERP Integration (2-8 meses)
 
-### Projeto: SAP B1 / S/4HANA Integration
+### Projeto: SAP B1 Integration
 
 **Problema típico:**
 - SAP integrado com sistema legado (confuso, com bugs)
@@ -43,7 +43,6 @@ Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado e
 
 **Minha expertise:**
 - SAP B1: UI API, DI API, Service Layer
-- SAP S/4HANA: APIs OData, RFC, ALV
 - Integração robusta com tratamento de erros
 
 **Solução típica:**

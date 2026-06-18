@@ -97,7 +97,7 @@ Primary focus: hands-on software development, backend engineering, database desi
 * SAP Service Layer
 * SAP DI API
 * SAP HANA
-* SAP S/4HANA Integrations
+* SAP Business One Integrations
 
 ### Architecture
 

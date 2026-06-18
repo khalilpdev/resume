@@ -6,7 +6,7 @@
 
 ## DESENVOLVEDOR FULL-STACK SÊNIOR | ESPECIALISTA C#/.NET & SAP BUSINESS ONE
 
-Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projetando, codificando e entregando aplicações corporativas, APIs, integrações ERP e soluções com bancos de dados SQL usando o ecossistema .NET (C#, ASP.NET, Blazor, MAUI). Forte foco em entrega técnica prática, engenharia backend, design de bancos de dados e modernização de sistemas críticos de negócio. Especialista em integrações com SAP Business One e S/4HANA, com atuação orientada a código manutenível, escalabilidade e consultoria técnica.
+Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projetando, codificando e entregando aplicações corporativas, APIs, integrações ERP e soluções com bancos de dados SQL usando o ecossistema .NET (C#, ASP.NET, Blazor, MAUI). Forte foco em entrega técnica prática, engenharia backend, design de bancos de dados e modernização de sistemas críticos de negócio. Especialista em integrações com SAP Business One, com experiência em liderança técnica em projeto SAP S/4HANA, sempre com atuação orientada a código manutenível, escalabilidade e consultoria técnica.
 
 ---
 
@@ -15,7 +15,7 @@ Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projeta
 - **Linguagens & Frameworks:** C#, .NET Core/.NET 5+, ASP.NET, Blazor, MAUI, LINQ, Entity Framework Core, SignalR
 - **Backend & Full-Stack:** Design de APIs REST, Desenvolvimento Full-Stack, Arquitetura Orientada a Eventos, Microserviços, Clean Architecture
 - **Cloud-Native:** Docker, Redis, Linux, Azure, AWS
-- **Plataformas ERP & Integração:** SAP Business One (UI API, DI API, Service Layer), SAP S/4HANA
+- **Plataformas ERP & Integração:** SAP Business One (UI API, DI API, Service Layer)
 - **Bancos de Dados:** PostgreSQL, Microsoft SQL Server (2005-2022), SAP HANA (SQL Script), T-SQL, Otimização de Stored Procedures
 - **Ferramentas & Conceitos:** Git, Visual Studio, Ubuntu Server, Agile/Scrum, POO, Design Patterns, Clean Code
 

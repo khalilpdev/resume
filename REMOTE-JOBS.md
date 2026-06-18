@@ -39,7 +39,7 @@ Sou **Senior Full-Stack Software Developer** e **especialista em C#/.NET e SAP B
 ### Projetos Ideais
 ✅ **Migração/Modernização:** Legacy VB.NET → .NET Core, SQL Server → PostgreSQL  
 ✅ **Backend & APIs:** APIs robustas, autenticação, integrações com 3ª partes  
-✅ **Integração ERP:** SAP B1, S/4HANA e sistemas customizados  
+✅ **Integração ERP:** SAP B1 e sistemas customizados  
 ✅ **System Modernization:** Refatoração, melhoria de performance e redução de dívida técnica  
 ✅ **Architecture Review & Consulting:** Design reviews, performance tuning e decisões técnicas
 
@@ -80,7 +80,7 @@ backend and ERP systems, particularly in C#/.NET and SAP Business One domains.
 
 **Quick Overview:**
 - Developed real-time multi-tenant SaaS platforms (Blazor, .NET, PostgreSQL, Redis)
-- Built and delivered complex SAP integrations (B1, S/4HANA) using C#/.NET
+- Built and delivered complex SAP B1 integrations using C#/.NET
 - Expert in performance optimization, API design, and clean code
 
 **What I bring:**
