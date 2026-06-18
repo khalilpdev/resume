@@ -4,6 +4,20 @@ Histórico de atualizações no portfólio profissional de Leandro Khalil.
 
 ---
 
+## 2026-06-18
+
+### Repository Repositioning
+
+* Introduced Resume-as-Code concept
+* Updated README
+* Refined professional positioning
+* Increased focus on Full-Stack Development
+* Reduced emphasis on management roles
+* Highlighted international opportunities
+* Added tracked git-hook guard for direct commits on main/master
+
+---
+
 ## [1.3.0] - 2026-06-15 📊 Versões de Currículo v2 (Métricas) & v3 (Liderança)
 
 ### Added

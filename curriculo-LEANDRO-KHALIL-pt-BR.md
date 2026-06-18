@@ -4,16 +4,17 @@
 
 ---
 
-## DESENVOLVEDOR DE SOFTWARE SÊNIOR | ESPECIALISTA C# .NET & ERP
+## DESENVOLVEDOR FULL-STACK SÊNIOR | ESPECIALISTA C#/.NET & SAP BUSINESS ONE
 
-Desenvolvedor de Software Sênior com **mais de 18 anos de experiência** projetando, codificando e entregando soluções de alto impacto usando o ecossistema .NET (C#, ASP.NET, Blazor, MAUI) e bancos de dados SQL. Apaixonado por escrita de código limpo, performático e manutenível, com histórico sólido em modernização de sistemas legados, automação de processos críticos de negócio e implementação de arquiteturas escaláveis orientadas a eventos. Especialista em desenvolvimento backend, integração de plataformas complexas e especialização profunda em SAP Business One e S/4HANA. Experiência adicional em liderança técnica de times de desenvolvimento, embora meu foco principal seja sempre a **entrega técnica de código de qualidade**.
+Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projetando, codificando e entregando aplicações corporativas, APIs, integrações ERP e soluções com bancos de dados SQL usando o ecossistema .NET (C#, ASP.NET, Blazor, MAUI). Forte foco em entrega técnica prática, engenharia backend, design de bancos de dados e modernização de sistemas críticos de negócio. Especialista em integrações com SAP Business One e S/4HANA, com atuação orientada a código manutenível, escalabilidade e consultoria técnica.
 
 ---
 
 ## HABILIDADES TÉCNICAS
 
 - **Linguagens & Frameworks:** C#, .NET Core/.NET 5+, ASP.NET, Blazor, MAUI, LINQ, Entity Framework Core, SignalR
-- **Arquitetura & Cloud:** Design de APIs REST, Arquitetura Orientada a Eventos, Microserviços, Docker, Redis
+- **Backend & Full-Stack:** Design de APIs REST, Desenvolvimento Full-Stack, Arquitetura Orientada a Eventos, Microserviços, Clean Architecture
+- **Cloud-Native:** Docker, Redis, Linux, Azure, AWS
 - **Plataformas ERP & Integração:** SAP Business One (UI API, DI API, Service Layer), SAP S/4HANA
 - **Bancos de Dados:** PostgreSQL, Microsoft SQL Server (2005-2022), SAP HANA (SQL Script), T-SQL, Otimização de Stored Procedures
 - **Ferramentas & Conceitos:** Git, Visual Studio, Ubuntu Server, Agile/Scrum, POO, Design Patterns, Clean Code
@@ -99,7 +100,7 @@ Desenvolvedor de Software Sênior com **mais de 18 anos de experiência** projet
 
 ## PROJETOS-CHAVE & CONQUISTAS
 
-- **Engine de Relatórios Dinâmico:** Projetei e implementei ferramenta de relatórios gerencial totalmente integrada que se tornou padrão oficial da empresa, apresentando controles de acesso de usuário baseados em papéis.
+- **Engine de Relatórios Dinâmico:** Projetei e implementei ferramenta de relatórios totalmente integrada que se tornou padrão oficial da empresa, apresentando controles de acesso de usuário baseados em papéis.
 - **Automação Fiscal:** Criei add-ons para emissão de documentos fiscais eletrônicos (CT-e, MDF-e), garantindo conformidade legal e automatizando processos complexos manuais.
 - **Automação Financeira:** Desenvolveu soluções robustas para validação de arquivos de cobrança eletrônica bancária (remessa, retorno, boleto), eliminando erros manuais e aumentando eficiência operacional.
 

@@ -35,6 +35,7 @@ if [[ "$response" == "s" || "$response" == "S" ]]; then
     echo -e "${BLUE}Digite a mensagem de commit:${NC}"
     read -r commit_msg
     
+    ./scripts/ensure-not-on-main.sh
     git add -A
     git commit -m "docs: $commit_msg"
     

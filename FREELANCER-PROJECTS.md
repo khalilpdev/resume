@@ -2,7 +2,7 @@
 
 ## Para Clientes: Projetos de Demanda
 
-Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado em .NET, ERP, e modernização de código.
+Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado em .NET, desenvolvimento de APIs, integrações ERP, SAP Business One, modernização de sistemas e consultoria técnica.
 
 ---
 
@@ -146,9 +146,9 @@ Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado e
 
 ---
 
-## 👨‍💼 Tipo 6: Technical Leadership & Mentoring (Contínuo)
+## 👨‍💼 Tipo 6: Technical Consulting & Architecture Review (Contínuo)
 
-### Projeto: Elevar nível técnico da equipe
+### Projeto: Elevar nível técnico e reduzir risco técnico
 
 **Serviços:**
 - ✅ Code review profissional em PRs
@@ -156,6 +156,7 @@ Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado e
 - ✅ Architecture decisions & design reviews
 - ✅ Tech talks & training
 - ✅ Career development coaching
+- ✅ Technical consulting para decisões críticas
 
 **Formato:**
 - 10-20 horas/semana, contrato mensal
@@ -163,10 +164,10 @@ Estou disponível para projetos **bem-definidos** de 1-24 meses. Especializado e
 - Timezone Brasil
 
 **Resultado:**
-- Equipe mais confiante e produtiva
+- Decisões técnicas mais seguras
 - Código de melhor qualidade
 - Redução de bugs em produção
-- Menos rotatividade de devs
+- Menos retrabalho e dívida técnica
 
 **Timeline:** Mês a mês  
 **Investimento:** $3k-$5k USD/mês ou $60-80/hora  
