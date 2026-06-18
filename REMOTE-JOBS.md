@@ -2,7 +2,7 @@
 
 ## Para Recrutadores: Opções de Engajamento
 
-Sou **Senior Software Engineer C# .NET** com **18+ anos de experiência** em arquitetura e desenvolvimento de soluções escaláveis. Disponível para:
+Sou **Senior Software Developer C# .NET** com **18+ anos de experiência** em desenvolvimento e arquitetura de soluções escaláveis. Disponível para:
 
 ---
 
@@ -10,7 +10,7 @@ Sou **Senior Software Engineer C# .NET** com **18+ anos de experiência** em arq
 
 ### Perfil de Interesse
 - **Empresa:** Scaleups, tech-forward, com 50+ devs
-- **Role:** Senior C# Engineer, Tech Lead, ou Architect Role
+- **Role:** Senior C# Developer, Backend Engineer, ou Full Stack Engineer
 - **Salário esperado:** $6k-$8k USD/mês (ou equivalente em BRL)
 - **Timezone:** -3:00 (Brazil/Brasília)
 
@@ -18,12 +18,12 @@ Sou **Senior Software Engineer C# .NET** com **18+ anos de experiência** em arq
 ✅ **Entrega sem overhead:** Trabalho autônomo, sem micromanagement  
 ✅ **Velocidade de execução:** Experiência em múltiplos domínios (ERP, SaaS, APIs, arquitetura)  
 ✅ **Tech stack moderno:** C#/.NET Core, Blazor, PostgreSQL, Docker, Redis, SignalR  
-✅ **Liderança comprovada:** Gerenciei times de 3-8 devs, mentoria contínua  
+✅ **Desenvolvedor sênior:** 18+ anos escrevendo código de produção de alta qualidade  
 ✅ **Responsabilidade:** Próprio estilo de trabalho focado em qualidade e deadlines  
 
 ### Diferencial
-- Não é mais "só outro dev C#" — tenho expertise em **design de arquitetura corporativa**
-- Costumo pegar código legado/bagunçado e **transformar em scalable, testável e maintível**
+- Desenvolvedor hands-on com profundidade técnica real em **C# .NET, Blazor, PostgreSQL e arquitetura backend**
+- Costumo pegar código legado/bagunçado e **transformar em scalable, testável e mantível**
 - Fluente em **comunicação assíncrona** (Slack, Discord, documentação técnica)
 
 ---
@@ -70,22 +70,22 @@ Sou **Senior Software Engineer C# .NET** com **18+ anos de experiência** em arq
 ### Template de Email
 
 ```
-Subject: C# Senior Engineer - 18y XP, Remote Available
+Subject: C# Senior Developer - 18y XP, Remote Available
 
 Hi [Recruiter],
 
-I'm Leandro Khalil, Senior C# Software Engineer with 18+ years building scalable 
+I'm Leandro Khalil, Senior C# Software Developer with 18+ years building scalable 
 backend systems, particularly in ERP/SaaS domains.
 
 **Quick Overview:**
-- Architected multi-tenant SaaS platforms (Blazor, .NET, PostgreSQL, Redis)
-- Led dev teams (3-8 engineers) in complex SAP integrations
-- Expert in performance optimization, design patterns, and code quality
+- Developed real-time multi-tenant SaaS platforms (Blazor, .NET, PostgreSQL, Redis)
+- Built and delivered complex SAP integrations (B1, S/4HANA) using C#/.NET
+- Expert in performance optimization, design patterns, and clean code
 
 **What I bring:**
-✓ Proven ability to deliver without supervision (async, documentação, PRs)
+✓ Strong hands-on coding skills — I write production-ready code, not just specs
 ✓ Fast execution on complex problems (ERP, event-driven arch, legacy refactor)
-✓ Mentorship mindset — teams improve under my guidance
+✓ Deep technical background across the full .NET stack
 
 **Open to:**
 - Full-time remote (US/EU timezone-friendly hours)
@@ -108,27 +108,28 @@ linkedin.com/in/leandrokhallil
 
 ### Para Vaga: Backend Engineer
 
-> "I've spent the last 18 years architecting backend systems at scale. Recently built a real-time SaaS 
-> backend handling thousands of concurrent users with .NET, PostgreSQL, and Redis. Strong in API design, 
-> data modeling, and performance optimization. If your backend is struggling with latency or scalability, 
-> I know exactly where to look."
+> "I've spent the last 18 years building backend systems at scale in C# .NET. Recently delivered a real-time 
+> SaaS backend handling thousands of concurrent users with .NET, PostgreSQL, and Redis — every feature 
+> coded, tested, and deployed by me. Strong in API design, data modeling, and performance optimization. 
+> If your backend is struggling with latency or scalability, I know exactly where to look and how to fix it."
 
 ### Para Vaga: Tech Lead / Architect
 
-> "I've led teams of 3-8 engineers through complex technical transformations—from SAP integrations to 
-> architectural overhauls. I don't just code; I raise the bar for the entire team through code review, 
-> design mentorship, and setting technical standards. My teams ship better code faster."
+> "Beyond writing great code, I bring the ability to make the right technical decisions. I have hands-on 
+> experience leading teams through complex transformations — SAP integrations, architectural overhauls — 
+> but I remain a developer at heart. I write the code, do the code reviews, and set the technical 
+> standards my teams follow."
 
 ### Para Vaga: Senior C# Developer
 
 > "18 years of C# experience across multiple domains: ERP systems, real-time SaaS platforms, financial 
-> automation, and data processing at scale. I'm not just familiar with C# patterns—I architect systems 
-> that other teams maintain with confidence. Performance, scalability, and maintainability are built in, 
-> not added later."
+> automation, and data processing at scale. I'm not just familiar with C# patterns — I build systems 
+> that are performant, maintainable, and that other developers are confident working in. Clean code 
+> and scalability are written in from day one, not added later."
 
 ### Para Vaga: Freelance Project (Build Feature X)
 
-> "I've delivered dozens of full-featured systems to production in .NET. I work independently, 
+> "I've coded and delivered dozens of full-featured systems to production in .NET. I work independently, 
 > deliver production-ready code with tests, and handle everything from requirements clarification to 
 > deployment. No surprises, no technical debt."
 
@@ -163,4 +164,4 @@ linkedin.com/in/leandrokhallil
 
 ---
 
-*Última atualização: 2026-06-12*
+*Última atualização: 2026-06-18*

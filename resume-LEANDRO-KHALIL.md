@@ -4,9 +4,9 @@
 
 ---
 
-## SENIOR SOFTWARE ENGINEER | .NET & ERP SPECIALIST
+## SENIOR SOFTWARE DEVELOPER | C# .NET & ERP SPECIALIST
 
-Accomplished Senior Software Engineer with over 18 years of experience architecting, developing, and deploying high-impact solutions using the .NET ecosystem (C#, ASP.NET, Blazor, MAUI) and SQL databases. A proven technical leader with a strong foundation in computer science principles and a track record of modernizing legacy systems, automating critical business processes, and leading development teams. Expert in building scalable, event-driven architectures and integrating complex platforms, including deep specialization in SAP Business One and S/4HANA.
+Accomplished Senior Software Developer with over 18 years of experience designing, coding, and delivering high-impact solutions using the .NET ecosystem (C#, ASP.NET, Blazor, MAUI) and SQL databases. Passionate about writing clean, performant, and maintainable code, with a proven track record in modernizing legacy systems, automating critical business processes, and building scalable, event-driven architectures. Deep expertise in backend development and complex platform integration, including specialization in SAP Business One and S/4HANA. Additional background leading development teams, though my primary focus has always been **hands-on technical delivery and code quality**.
 
 ---
 
@@ -25,10 +25,10 @@ Accomplished Senior Software Engineer with over 18 years of experience architect
 ### Full Stack C# Developer | SaaS Customer Service Platform | Remote
 *Jan 2024 - Present*
 
-- Architect and develop real-time features for a multi-tenant SaaS platform using Blazor and a .NET backend, enhancing customer engagement and reducing response times.
-- Engineered scalable, low-latency communication using SignalR and Redis, reliably handling thousands of concurrent user connections.
-- Designed and optimized a normalized PostgreSQL database, writing complex queries and improving data retrieval performance for mission-critical features.
-- Handle full Linux server administration, deploying and orchestrating containerized microservices using Docker on Ubuntu, ensuring 99.9% uptime.
+- Lead developer building real-time features for a multi-tenant SaaS platform using **Blazor** and a **.NET** backend, enhancing customer engagement and reducing response times.
+- Engineered scalable, low-latency communication using **SignalR** and **Redis**, reliably handling thousands of concurrent user connections.
+- Wrote and optimized complex queries on a normalized **PostgreSQL** database, improving data retrieval performance for mission-critical features.
+- Managed full Linux server administration, deploying and orchestrating containerized microservices using **Docker** on Ubuntu, ensuring 99.9% uptime.
 
 ### Senior C#/.NET Developer (SAP B1 Specialist) | Invent Software | Goiânia, GO
 *Nov 2023 - Oct 2024*
