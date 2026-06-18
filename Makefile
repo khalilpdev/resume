@@ -1,4 +1,4 @@
-.PHONY: help pdf pdf-watch clean update-changelog git-commit
+.PHONY: help pdf pdf-watch clean update-changelog install-hooks git-commit
 
 help:
 	@echo "================================"
@@ -10,6 +10,7 @@ help:
 	@echo "  make pdf              - Gera todos os PDFs (resume, currículo, freelancer)"
 	@echo "  make clean            - Remove PDFs antigos"
 	@echo "  make update-changelog - Atualiza CHANGELOG.md com data e versão"
+	@echo "  make install-hooks    - Instala o hook local de proteção de commit"
 	@echo "  make git-commit       - Faz commit de todas as mudanças (git add + commit)"
 	@echo ""
 	@echo "Fluxo recomendado para atualizações:"
@@ -43,8 +44,15 @@ update-changelog:
 	git add CHANGELOG.md
 	@echo "✅ CHANGELOG atualizado"
 
+install-hooks:
+	@echo "🔧 Instalando hooks locais..."
+	@chmod +x scripts/ensure-not-on-main.sh .githooks/pre-commit
+	@git config core.hooksPath .githooks
+	@echo "✅ Hooks instalados em .githooks"
+
 git-commit:
 	@echo "📦 Preparando commit..."
+	@./scripts/ensure-not-on-main.sh
 	@git add -A
 	@echo ""
 	@echo "Arquivos prontos para commit:"

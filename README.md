@@ -26,6 +26,7 @@ PDF versions are automatically generated from the source files, ensuring recruit
 * Easy maintenance and updates
 * Always up-to-date information
 * Recruiter-friendly access
+* Local git hook guard against direct commits on `main`/`master`
 
 ---
 
@@ -34,6 +35,10 @@ PDF versions are automatically generated from the source files, ensuring recruit
 The latest PDF versions are available in the **PDF/** directory.
 
 No need to request updated resumes by email. This repository always contains the latest version of my professional profile.
+
+### Local Safety
+
+Run `make install-hooks` after cloning to enable the tracked git hook that blocks direct commits on `main` and `master`.
 
 ### Start Here
 
@@ -53,7 +58,7 @@ Senior Full-Stack Software Developer with 18+ years of experience building enter
 
 Specialized in designing, developing, modernizing, and integrating business-critical systems using Microsoft technologies and SAP ecosystems.
 
-While experienced in mentoring developers and leading technical initiatives, my primary focus remains hands-on software development, software architecture, and solving complex business problems through technology.
+Primary focus: hands-on software development, backend engineering, database design, and cloud-ready delivery. Open to remote-first, international, freelance, and technical consulting opportunities.
 
 ---
 

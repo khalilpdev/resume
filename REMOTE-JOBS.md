@@ -2,28 +2,29 @@
 
 ## Para Recrutadores: Opções de Engajamento
 
-Sou **Senior Software Developer C# .NET** com **18+ anos de experiência** em desenvolvimento e arquitetura de soluções escaláveis. Disponível para:
+Sou **Senior Full-Stack Software Developer** e **especialista em C#/.NET e SAP Business One** com **18+ anos de experiência** em desenvolvimento de software, integrações ERP e aplicações escaláveis. Disponível para:
 
 ---
 
 ## 📌 Opção 1: Full-Time Remoto
 
 ### Perfil de Interesse
-- **Empresa:** Scaleups, tech-forward, com 50+ devs
-- **Role:** Senior C# Developer, Backend Engineer, ou Full Stack Engineer
+- **Empresa:** Scaleups, product companies e times distribuídos
+- **Role:** Senior Full-Stack Developer, Backend Engineer, ou C#/.NET Specialist
 - **Salário esperado:** $6k-$8k USD/mês (ou equivalente em BRL)
 - **Timezone:** -3:00 (Brazil/Brasília)
+- **Formato:** Remote-first, colaboração assíncrona e alinhamento internacional
 
 ### Por que me contratar?
-✅ **Entrega sem overhead:** Trabalho autônomo, sem micromanagement  
-✅ **Velocidade de execução:** Experiência em múltiplos domínios (ERP, SaaS, APIs, arquitetura)  
+✅ **Entrega com autonomia:** Comunicação clara, foco em resultado e baixa necessidade de supervisão  
+✅ **Velocidade de execução:** Experiência em ERP, SaaS, APIs, integrações SAP e arquitetura backend  
 ✅ **Tech stack moderno:** C#/.NET Core, Blazor, PostgreSQL, Docker, Redis, SignalR  
 ✅ **Desenvolvedor sênior:** 18+ anos escrevendo código de produção de alta qualidade  
-✅ **Responsabilidade:** Próprio estilo de trabalho focado em qualidade e deadlines  
+✅ **Colaboração remota:** Experiência com times distribuídos e comunicação assíncrona  
 
 ### Diferencial
-- Desenvolvedor hands-on com profundidade técnica real em **C# .NET, Blazor, PostgreSQL e arquitetura backend**
-- Costumo pegar código legado/bagunçado e **transformar em scalable, testável e mantível**
+- Desenvolvedor hands-on com profundidade técnica real em **C#/.NET, Blazor, PostgreSQL, APIs e arquitetura backend**
+- Costumo pegar código legado e **transformar em escalável, testável e mantível**
 - Fluente em **comunicação assíncrona** (Slack, Discord, documentação técnica)
 
 ---
@@ -37,10 +38,10 @@ Sou **Senior Software Developer C# .NET** com **18+ anos de experiência** em de
 
 ### Projetos Ideais
 ✅ **Migração/Modernização:** Legacy VB.NET → .NET Core, SQL Server → PostgreSQL  
-✅ **Backend SaaS:** APIs robustas, autenticação, integração com 3ª partes  
-✅ **Integração ERP:** SAP B1, S/4HANA, Sistema customizado  
-✅ **Arquitetura & Code Review:** Consulta em design patterns, performance tuning  
-✅ **Feature Development:** Implementação de funcionalidades críticas com testes  
+✅ **Backend & APIs:** APIs robustas, autenticação, integrações com 3ª partes  
+✅ **Integração ERP:** SAP B1, S/4HANA e sistemas customizados  
+✅ **System Modernization:** Refatoração, melhoria de performance e redução de dívida técnica  
+✅ **Architecture Review & Consulting:** Design reviews, performance tuning e decisões técnicas
 
 ### Entrega
 - Código production-ready com testes automatizados
@@ -58,10 +59,10 @@ Sou **Senior Software Developer C# .NET** com **18+ anos de experiência** em de
 
 ### Casos de Uso
 ✅ **Architecture Review:** Validação de design antes de implementação  
-✅ **Performance Tuning:** Otimização de queries, cache, arquitetura  
-✅ **Code Quality:** Implementação de padrões, testes, CI/CD  
+✅ **Performance Tuning:** Otimização de queries, cache e arquitetura  
+✅ **Code Quality:** Implementação de padrões, testes e CI/CD  
 ✅ **Tech Stack Decision:** O que usar (Blazor vs. React, Docker vs. K8s, etc)  
-✅ **Technical Due Diligence:** Pre-acquisition analysis, tech debt assessment  
+✅ **Technical Consulting:** Due diligence, assessment de dívida técnica e roadmap de modernização  
 
 ---
 
@@ -74,17 +75,17 @@ Subject: C# Senior Developer - 18y XP, Remote Available
 
 Hi [Recruiter],
 
-I'm Leandro Khalil, Senior C# Software Developer with 18+ years building scalable 
-backend systems, particularly in ERP/SaaS domains.
+I'm Leandro Khalil, Senior Full-Stack Software Developer with 18+ years building scalable 
+backend and ERP systems, particularly in C#/.NET and SAP Business One domains.
 
 **Quick Overview:**
 - Developed real-time multi-tenant SaaS platforms (Blazor, .NET, PostgreSQL, Redis)
 - Built and delivered complex SAP integrations (B1, S/4HANA) using C#/.NET
-- Expert in performance optimization, design patterns, and clean code
+- Expert in performance optimization, API design, and clean code
 
 **What I bring:**
 ✓ Strong hands-on coding skills — I write production-ready code, not just specs
-✓ Fast execution on complex problems (ERP, event-driven arch, legacy refactor)
+✓ Fast execution on complex problems (ERP, event-driven systems, legacy refactor)
 ✓ Deep technical background across the full .NET stack
 
 **Open to:**
@@ -116,7 +117,7 @@ linkedin.com/in/leandrokhallil
 ### Para Vaga: Tech Lead / Architect
 
 > "Beyond writing great code, I bring the ability to make the right technical decisions. I have hands-on 
-> experience leading teams through complex transformations — SAP integrations, architectural overhauls — 
+> experience guiding teams through complex transformations — SAP integrations, architectural overhauls — 
 > but I remain a developer at heart. I write the code, do the code reviews, and set the technical 
 > standards my teams follow."
 

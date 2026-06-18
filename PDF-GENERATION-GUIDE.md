@@ -100,6 +100,9 @@ make update-changelog
 ### Step 4️⃣: Fazer Commit no Git
 
 ```bash
+# Instale os hooks uma vez por clone
+make install-hooks
+
 # Opção A: Automático com Makefile
 make git-commit
 
@@ -122,6 +125,7 @@ git commit -m "docs: atualizar resume e gerar PDFs
 | `make pdf` | Gera todos os 4 PDFs |
 | `make clean` | Remove PDFs antigos |
 | `make update-changelog` | Adiciona entrada ao CHANGELOG |
+| `make install-hooks` | Instala o hook local de proteção de commit |
 | `make git-commit` | Faz commit automático |
 | `make view-pdfs` | Lista PDFs gerados |
 

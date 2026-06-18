@@ -4,16 +4,17 @@
 
 ---
 
-## SENIOR SOFTWARE DEVELOPER | C# .NET & ERP SPECIALIST
+## SENIOR FULL-STACK SOFTWARE DEVELOPER | C#/.NET & SAP BUSINESS ONE SPECIALIST
 
-Accomplished Senior Software Developer with over 18 years of experience designing, coding, and delivering high-impact solutions using the .NET ecosystem (C#, ASP.NET, Blazor, MAUI) and SQL databases. Passionate about writing clean, performant, and maintainable code, with a proven track record in modernizing legacy systems, automating critical business processes, and building scalable, event-driven architectures. Deep expertise in backend development and complex platform integration, including specialization in SAP Business One and S/4HANA. Additional background leading development teams, though my primary focus has always been **hands-on technical delivery and code quality**.
+Accomplished Senior Full-Stack Software Developer with over 18 years of experience designing, coding, and delivering enterprise applications, APIs, ERP integrations, and SQL-based solutions across the .NET ecosystem (C#, ASP.NET, Blazor, MAUI). Strong focus on hands-on software delivery, backend engineering, database design, and modernization of business-critical systems. Deep expertise in SAP Business One and S/4HANA integrations, with a delivery style centered on maintainable code, scalability, and technical consulting.
 
 ---
 
 ## TECHNICAL SKILLS
 
 - **Languages & Frameworks:** C#, .NET Core/.NET 5+, ASP.NET, Blazor, MAUI, LINQ, Entity Framework Core, SignalR
-- **Architecture & Cloud:** RESTful API Design, Event-Driven Architecture, Microservices, Docker, Redis
+- **Backend & Full-Stack:** RESTful API Design, Full-Stack Development, Event-Driven Architecture, Microservices, Clean Architecture
+- **Cloud-Native:** Docker, Redis, Linux, Azure, AWS
 - **ERP & Integration Platforms:** SAP Business One (UI API, DI API, Service Layer), SAP S/4HANA
 - **Databases:** PostgreSQL, Microsoft SQL Server (2005-2022), SAP HANA (SQL Script), T-SQL, Stored Procedure Optimization
 - **Tools & Concepts:** Git, Visual Studio, Ubuntu Server, Agile/Scrum, OOP, Design Patterns, Clean Code
@@ -99,6 +100,6 @@ Accomplished Senior Software Developer with over 18 years of experience designin
 
 ## KEY PROJECTS & ACHIEVEMENTS
 
-- **Dynamic Reporting Engine:** Designed and implemented a fully integrated managerial reporting tool that became the company's official standard, featuring role-based user access controls.
+- **Dynamic Reporting Engine:** Designed and implemented a fully integrated reporting tool that became the company's official standard, featuring role-based user access controls.
 - **Fiscal Automation:** Created add-ons for electronic tax document issuance (CT-e, MDF-e), ensuring legal compliance and automating complex manual processes.
 - **Financial Automation:** Developed robust solutions for validating electronic bank billing files (remittance, return, and boleto), eliminating manual errors and increasing operational efficiency.
