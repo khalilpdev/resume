@@ -4,9 +4,9 @@
 
 ---
 
-## ENGENHEIRO DE SOFTWARE SÊNIOR | ESPECIALISTA .NET & ERP
+## DESENVOLVEDOR DE SOFTWARE SÊNIOR | ESPECIALISTA C# .NET & ERP
 
-Engenheiro de Software Sênior com **mais de 18 anos de experiência** arquitetando, desenvolvendo e implantando soluções de alto impacto usando o ecossistema .NET (C#, ASP.NET, Blazor, MAUI) e bancos de dados SQL. Líder técnico comprovado com base sólida em princípios de ciência da computação e histórico de modernização de sistemas legados, automação de processos críticos de negócio e liderança de times de desenvolvimento. Especialista em construir arquiteturas escaláveis orientadas a eventos e integração de plataformas complexas, incluindo especialização profunda em SAP Business One e S/4HANA.
+Desenvolvedor de Software Sênior com **mais de 18 anos de experiência** projetando, codificando e entregando soluções de alto impacto usando o ecossistema .NET (C#, ASP.NET, Blazor, MAUI) e bancos de dados SQL. Apaixonado por escrita de código limpo, performático e manutenível, com histórico sólido em modernização de sistemas legados, automação de processos críticos de negócio e implementação de arquiteturas escaláveis orientadas a eventos. Especialista em desenvolvimento backend, integração de plataformas complexas e especialização profunda em SAP Business One e S/4HANA. Experiência adicional em liderança técnica de times de desenvolvimento, embora meu foco principal seja sempre a **entrega técnica de código de qualidade**.
 
 ---
 
@@ -22,13 +22,13 @@ Engenheiro de Software Sênior com **mais de 18 anos de experiência** arquiteta
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-### Full Stack C# Developer | Plataforma SaaS de Atendimento | Remoto
+### Desenvolvedor Full Stack C# | Plataforma SaaS de Atendimento | Remoto
 *jan 2024 - Presente*
 
-- Arquiteto e desenvolvedor de funcionalidades em tempo real para plataforma SaaS multi-tenant usando Blazor e backend .NET, aumentando engajamento do cliente e reduzindo tempo de resposta.
-- Implementei comunicação escalável e de baixa latência usando SignalR e Redis, gerenciando confiávelmente milhares de conexões de usuários simultâneas.
-- Projetei e otimizei banco de dados PostgreSQL normalizado, escrevendo queries complexas e melhorando performance de recuperação de dados para funcionalidades críticas.
-- Lidar com administração completa de servidor Linux, implantando e orquestrando microsserviços containerizados usando Docker em Ubuntu, garantindo 99,9% de uptime.
+- Desenvolvedor principal de funcionalidades em tempo real para plataforma SaaS multi-tenant usando **Blazor** e backend **.NET**, aumentando engajamento do cliente e reduzindo tempo de resposta.
+- Implementei comunicação escalável e de baixa latência usando **SignalR** e **Redis**, gerenciando confiávelmente milhares de conexões de usuários simultâneas.
+- Escrevi e otimizei queries complexas em banco de dados **PostgreSQL** normalizado, melhorando performance de recuperação de dados para funcionalidades críticas.
+- Realizei administração completa de servidor Linux, implantando e orquestrando microsserviços containerizados usando **Docker** no Ubuntu, garantindo 99,9% de uptime.
 
 ### Desenvolvedor Sênior C#/.NET (Especialista em SAP B1) | Invent Software | Goiânia, GO
 *nov 2023 - out 2024*
@@ -105,4 +105,4 @@ Engenheiro de Software Sênior com **mais de 18 anos de experiência** arquiteta
 
 ---
 
-*Atualizado: 2026-06-12*
+*Atualizado: 2026-06-18*
