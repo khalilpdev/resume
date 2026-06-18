@@ -1,130 +1,196 @@
-# 💼 Professional Resume & Portfolio
+# 💼 Resume as Code | Professional Resume & Portfolio
 
-**Leandro Khalil Peixoto** — Senior Software Engineer | C# .NET Specialist | 18+ years XP
+**Leandro Khalil Peixoto**
+Senior Full-Stack Software Developer | C#/.NET Specialist | SAP Business One Integration Expert
 
-📍 Goiânia, Brasil | 🌐 Remote-First | 📧 khallipdev@gmail.com | 📱 +55 (62) 99880-8389
-
----
-
-## 📂 Documentação
-
-Este repositório contém meu portfólio profissional e materiais de contratação:
-
-### 📄 **Documentos Principais**
-
-| Documento | Propósito | Público |
-|-----------|----------|---------|
-| **[resume-LEANDRO-KHALIL.md](./resume-LEANDRO-KHALIL.md)** | CV técnico detalhado em Inglês | Recrutadores internacionais |
-| **[curriculo-LEANDRO-KHALIL-pt-BR.md](./curriculo-LEANDRO-KHALIL-pt-BR.md)** | CV em Português | Recrutadores brasileiros |
-| **[REMOTE-JOBS.md](./REMOTE-JOBS.md)** | Opcões de engajamento (FT, Freelancer, Consulting) | Recrutadores remotos |
-| **[FREELANCER-PROJECTS.md](./FREELANCER-PROJECTS.md)** | Tipos de projetos e preços | Clientes procurando freelancer |
-| **[CHANGELOG.md](./CHANGELOG.md)** | Histórico de atualizações | Tracking de mudanças |
-
-### 📁 **Pastas de PDFs**
-
-| Pasta | Conteúdo | Nota |
-|-------|----------|------|
-| **PDF/** | PDFs atuais (versão mais recente) | ← Use para enviar |
-| **PDF_OLD_{timestamp}/** | Backups automáticos com histórico | Arquivados automaticamente |
+📍 Goiânia, Brazil
+🌐 Remote-First
+📧 [khallipdev@gmail.com](mailto:khallipdev@gmail.com)
 
 ---
 
-## 🎯 Se você está aqui porque...
+## 🚀 About This Repository
 
-### ✅ Você é Recrutador
-→ Leia **[REMOTE-JOBS.md](./REMOTE-JOBS.md)**  
-Encontrará: opções de engajamento, pitch customizado, como entrar em contato.
+This repository follows a **Resume-as-Code** approach.
 
-### ✅ Você está contratando um Freelancer
-→ Leia **[FREELANCER-PROJECTS.md](./FREELANCER-PROJECTS.md)**  
-Encontrará: tipos de projetos, timeline, preços, como propor um projeto.
+Instead of maintaining multiple resume files and sending outdated attachments by email, all professional information is version-controlled and maintained as Markdown documents.
 
-### ✅ Você precisa de um CV Detalhado
-→ Leia **[resume-LEANDRO-KHALIL.md](./resume-LEANDRO-KHALIL.md)**  
-Encontrará: experiência completa, skills técnicos, achievements.
+PDF versions are automatically generated from the source files, ensuring recruiters, clients, and hiring managers always have access to the most recent version of my professional profile.
 
----
+### Benefits
 
-## 🚀 Quick Overview
-
-**Senior Software Engineer** com **18 anos** construindo sistemas escaláveis em .NET/C#.
-
-### Especialidades
-- 💻 **Backend:** C#, .NET Core/8, ASP.NET, APIs REST, Microservices
-- 💾 **Data:** PostgreSQL, SQL Server, Entity Framework Core, Query Optimization
-- 🎯 **Architecture:** Event-driven, Domain-Driven Design, Clean Code, Design Patterns
-- 🔄 **ERP:** SAP Business One, S/4HANA (implementação e integração)
-- 🏢 **Leadership:** Tech Lead, Mentoring, Code Review, Agile/Scrum
-- ☁️ **Cloud:** Docker, Redis, SignalR, AWS/Azure basics
-
-### Últimos Projetos
-1. **SaaS Real-time Platform** (2024-Present) — Backend em .NET, Blazor, PostgreSQL, Redis
-2. **SAP B1 Fiscal Module** (2023-2024) — Arquitetura de sistema fiscal compliance
-3. **SAP S/4HANA Migration** (2022-2023) — Liderança técnica em transformação ERP
+* Single source of truth
+* Version-controlled career history
+* English and Portuguese versions
+* Automated PDF generation
+* Easy maintenance and updates
+* Always up-to-date information
+* Recruiter-friendly access
 
 ---
 
-## 📊 Por Números
+## ⭐ For Recruiters
 
-| Métrica | Valor |
-|---------|-------|
-| **Anos de Experiência** | 18+ |
-| **Linguagem Principal** | C# / .NET |
-| **Sistemas Entregues** | 50+ |
-| **Linhas de Código Produzidas** | 2M+ |
-| **Desenvolvedores Mentoreados** | 20+ |
-| **Empresas** | 8 diferentes |
-| **Uptime Atingido** | 99.9% |
+The latest PDF versions are available in the **PDF/** directory.
 
----
+No need to request updated resumes by email. This repository always contains the latest version of my professional profile.
 
-## 💡 O que me diferencia
+### Start Here
 
-✅ **Não sou só outro dev C#** — Arquiteto sistemas completos, não apenas codifico features  
-✅ **Velocidade de execução** — 18 anos fazendo isso, não tenho curva de aprendizado  
-✅ **Responsabilidade** — Encaro problemas como meus, até resolver  
-✅ **Comunicação clara** — Documentação, código legível, explicações técnicas  
-✅ **Leadership** — Equipes melhoram sob minha orientação  
+| Looking For             | Document                          |
+| ----------------------- | --------------------------------- |
+| Complete English Resume | resume-LEANDRO-KHALIL.md          |
+| Portuguese Resume       | curriculo-LEANDRO-KHALIL-pt-BR.md |
+| Remote Opportunities    | REMOTE-JOBS.md                    |
+| Freelance Services      | FREELANCER-PROJECTS.md            |
+| Change History          | CHANGELOG.md                      |
 
 ---
 
-## 📞 Como Contratar
+## 👨‍💻 Professional Summary
 
-- **Email:** khallipdev@gmail.com
-- **WhatsApp:** +55 (62) 99880-8389
-- **LinkedIn:** linkedin.com/in/leandrokhallil
-- **Timezone:** -3:00 (UTC-3)
+Senior Full-Stack Software Developer with 18+ years of experience building enterprise applications, ERP integrations, SaaS platforms, APIs, and distributed systems.
 
-### Opções de Engajamento
-- 🎯 **Full-time Remote** — $6k-8k/mês (ou equivalente)
-- 💼 **Freelancer Projects** — $50-100/hora (escopo bem-definido)
-- 🎓 **Consulting & Code Review** — $70-150/hora (assessoria técnica)
+Specialized in designing, developing, modernizing, and integrating business-critical systems using Microsoft technologies and SAP ecosystems.
+
+While experienced in mentoring developers and leading technical initiatives, my primary focus remains hands-on software development, software architecture, and solving complex business problems through technology.
 
 ---
 
-## 📝 Últimas Atualizações
+## 🛠 Core Technical Skills
 
-Veja [CHANGELOG.md](./CHANGELOG.md) para histórico completo de atualizações.
+### Full-Stack Development
 
-**Última atualização:** 2026-06-12
+* C#
+* .NET Framework
+* .NET Core
+* .NET 8+
+* ASP.NET Core
+* Blazor
+* REST APIs
+* Entity Framework Core
+
+### Frontend
+
+* Blazor
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
+
+### Databases
+
+* PostgreSQL
+* SQL Server
+* SAP HANA
+* Database Design
+* Query Optimization
+
+### ERP & Integrations
+
+* SAP Business One
+* SAP Service Layer
+* SAP DI API
+* SAP HANA
+* SAP S/4HANA Integrations
+
+### Architecture
+
+* Clean Architecture
+* Domain-Driven Design
+* Design Patterns
+* Microservices
+* Event-Driven Systems
+
+### DevOps & Cloud
+
+* Docker
+* Linux
+* Redis
+* GitHub Actions
+* AWS
+* Azure
 
 ---
 
-## 📋 Estrutura de Arquivos
+## 📈 Recent Projects
 
-```
-resume/
-├── README.md                        # ← Você está aqui
-├── resume-LEANDRO-KHALIL.md        # CV técnico completo
-├── REMOTE-JOBS.md                  # Opções de engajamento remoto
-├── FREELANCER-PROJECTS.md          # Portfolio de projetos freelancer
-├── CHANGELOG.md                    # Histórico de atualizações
-├── curriculo-LEANDRO-KHALIL.md.docx # Versão Word (português)
-└── .git/                           # Controle de versão
-```
+### SaaS Real-Time Platform (2024–Present)
+
+* Backend development using .NET and PostgreSQL
+* Real-time communication
+* Redis integration
+* Scalable architecture
+
+### SAP Business One Fiscal Module (2023–2024)
+
+* Tax compliance platform
+* ERP integrations
+* Business process automation
+
+### SAP S/4HANA Migration (2022–2023)
+
+* Technical leadership during ERP modernization
+* Integration architecture
+* Migration planning and execution
 
 ---
 
-## 🤝 Feedback
+## 📊 Professional Highlights
 
-Se tem sugestões para melhorar este portfolio, sinta-se à vontade para entrar em contato.
+| Metric              | Value            |
+| ------------------- | ---------------- |
+| Experience          | 18+ Years        |
+| Primary Stack       | C# / .NET        |
+| Systems Delivered   | 50+              |
+| Developers Mentored | 20+              |
+| Companies Served    | 8+               |
+| Availability        | Remote Worldwide |
+
+---
+
+## 🎯 Open To Opportunities
+
+Currently available for:
+
+* Full-Time Remote Positions
+* International Opportunities
+* Freelance Projects
+* Technical Consulting
+* Software Architecture Reviews
+* SAP Business One Integrations
+
+---
+
+## 🤝 Additional Experience
+
+* Technical Mentoring
+* Code Reviews
+* Agile/Scrum Teams
+* Software Architecture Guidance
+* Technical Leadership for Small and Medium Teams
+
+---
+
+## 📞 Contact
+
+* Email: [khallipdev@gmail.com](mailto:khallipdev@gmail.com)
+* LinkedIn: linkedin.com/in/leandrokhallil
+* WhatsApp: +55 (62) 99880-8389
+* Timezone: UTC-3 (Brazil)
+
+---
+
+## 📝 Last Update
+
+See CHANGELOG.md for complete history.
+
+Last update: 2026-06-18
+
+---
+
+## 💡 Feedback & Contributions
+
+Suggestions, improvements, and feedback are welcome.
+
+This repository is both a professional portfolio and an example of a Resume-as-Code workflow.
