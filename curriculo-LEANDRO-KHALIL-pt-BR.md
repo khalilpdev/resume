@@ -25,7 +25,7 @@ Desenvolvedor Full-Stack Sênior com mais de 18 anos de experiência projetando,
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### Desenvolvedor Full-Stack C# | Plataforma SaaS de Atendimento | Remoto
-*Jan 2026 - Presente*
+*jan 2026 - Presente*
 
 - Desenvolvi funcionalidades em tempo real para plataforma SaaS multi-tenant com **Blazor** e backend **.NET**, elevando a experiência do usuário e a velocidade de resposta.
 - Implementei comunicação escalável com **SignalR** e **Redis**, suportando milhares de conexões simultâneas com baixa latência.
