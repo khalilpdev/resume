@@ -6,19 +6,19 @@
 
 ## SENIOR FULL-STACK SOFTWARE DEVELOPER | C#/.NET & SAP BUSINESS ONE SPECIALIST
 
-Senior Full-Stack Software Developer with 18+ years of experience designing, coding, and delivering enterprise applications, APIs, ERP integrations, and SQL-based solutions across the .NET ecosystem. Strong hands-on focus on backend engineering, Blazor-based web UI, database design, performance tuning, and modernization of business-critical systems. Deep expertise in SAP Business One integrations and technical leadership for ERP migration and delivery.
+Senior Full-Stack Software Developer with 18+ years of experience in C# and .NET, focused on enterprise software, APIs, ERP integrations, and web applications. Strong hands-on profile in backend engineering, Blazor, databases, performance tuning, and modernization of critical systems. Ready for senior .NET roles that need delivery, ownership, and technical depth.
 
 ---
 
 ## TECHNICAL SKILLS
 
-- **Languages & Frameworks:** C#, .NET Core / .NET 5+, ASP.NET Core, Blazor, LINQ, Entity Framework Core, SignalR
-- **Backend & Full-Stack:** REST APIs, asynchronous integrations, event-driven architecture, microservices, Clean Architecture
+- **Languages & Frameworks:** C#, .NET 8+, ASP.NET Core, Blazor, Entity Framework Core, SignalR
+- **Backend & Full-Stack:** REST APIs, microservices, Clean Architecture, asynchronous integrations
 - **Front-End Web:** Blazor, HTML5, CSS3, JavaScript, TypeScript
-- **Cloud-Native & DevOps:** Docker, Redis, Linux, Azure, AWS, GitHub Actions
-- **Databases:** PostgreSQL, Microsoft SQL Server (2005-2022), SAP HANA, T-SQL, query and stored procedure optimization
-- **ERP & Integration:** SAP Business One (UI API, DI API, Service Layer), enterprise integrations, fiscal and logistics automation
-- **Tools & Practices:** Git, Visual Studio, Visual Studio Code, Agile/Scrum, OOP, Design Patterns, Clean Code
+- **Cloud-Native & DevOps:** Docker, Redis, Linux, Azure, AWS
+- **Databases:** PostgreSQL, Microsoft SQL Server, SAP HANA, T-SQL, query optimization
+- **ERP & Integration:** SAP Business One, UI API, DI API, Service Layer, fiscal automation
+- **Tools & Practices:** Git, Visual Studio, Agile/Scrum, OOP, Design Patterns, Clean Code
 
 ---
 
@@ -27,51 +27,50 @@ Senior Full-Stack Software Developer with 18+ years of experience designing, cod
 ### Full-Stack C# Developer | SaaS Customer Service Platform | Remote
 *Jan 2026 - Present*
 
-- Built real-time features for a multi-tenant SaaS platform with **Blazor** and a **.NET** backend, improving user experience and responsiveness.
-- Implemented scalable, low-latency communication with **SignalR** and **Redis**, supporting thousands of concurrent connections.
-- Optimized queries and data structures in **PostgreSQL**, improving performance in mission-critical features.
-- Worked on Linux infrastructure and **Docker** deployments, ensuring stable and highly available operations.
+- Built real-time features for a multi-tenant SaaS platform with **Blazor** and a **.NET** backend.
+- Implemented scalable communication with **SignalR** and **Redis**, supporting thousands of concurrent connections.
+- Optimized **PostgreSQL** and **Docker** deployments on Linux, improving performance and stability.
 
 ### Senior C#/.NET Developer (SAP B1 Specialist) | Invent Software | Goiânia, GO
 *Nov 2024 - Oct 2025*
 
-- Served as Senior Developer / Level 3 Architect on the TaxPlus fiscal add-on, evolving complex modules according to business rules and regulatory requirements.
-- Delivered configurable improvements for different client scenarios, including FCI and SPED Fiscal Block K.
-- Optimized **C#/.NET** algorithms and integrations with **SQL Server** and **SAP HANA**, reducing processing time.
-- Supported code reviews and technical standardization to improve delivery quality.
+- Served as Senior Developer / Level 3 Architect on the TaxPlus fiscal add-on.
+- Delivered configurable improvements for FCI and SPED Fiscal Block K scenarios.
+- Optimized **C#/.NET** integrations with **SQL Server** and **SAP HANA**.
+- Supported code reviews and technical standardization.
 
 ### Development Manager & Technical Lead | Atacadão Dia a Dia | Goiânia, GO
 *May 2022 - Sep 2024*
 
-- Led the technical strategy for a major **SAP S/4HANA** migration, translating business requirements into scalable solutions.
-- Supported the team in defining **.NET**-based integrations between legacy systems and the new ERP.
-- Worked closely with leadership to prioritize deliverables and reduce technical risk.
+- Led the technical strategy for a major **SAP S/4HANA** migration.
+- Defined **.NET** integrations between legacy systems and the new ERP.
+- Worked with leadership to prioritize deliverables and reduce technical risk.
 
 ### Development Manager | H&CO | Goiânia, GO
 *Aug 2021 - May 2022*
 
-- Led C# teams across multiple simultaneous SAP B1 integration projects.
-- Defined best practices for APIs using **SAP DI API** and **Service Layer**, creating cleaner and more sustainable integrations.
-- Helped resolve critical incidents and improve the code review workflow.
+- Led C# teams across multiple SAP B1 integration projects.
+- Defined API practices using **SAP DI API** and **Service Layer**.
+- Helped resolve critical incidents and improve code review.
 
 ### SAP B1 Development Manager | Run Sistemas | Goiânia, GO
 *2016 - Aug 2021*
 
 - Built and led the development team for custom SAP Business One add-ons.
-- Moved solutions from monolithic add-ons to a service-oriented approach, improving stability and upgradeability.
-- Followed the SDLC for products focused on finance and logistics automation.
+- Moved solutions from monolithic add-ons to a service-oriented approach.
+- Followed the SDLC for finance and logistics automation products.
 
 ### Senior SAP Developer / Tech Lead | Invent Software | Goiânia, GO
 *2013 - 2016*
 
 - Took on technical leadership for custom solutions using **C#**, **.NET**, and **SQL Server**.
-- Designed ERP integrations with a focus on performance, reliability, and maintainability.
+- Designed ERP integrations with a focus on performance and reliability.
 
 ### Systems Analyst & C# .NET Developer | Milênio Distribuidora | Goiânia, GO
 *Jun 2007 - Jan 2013*
 
-- Built a dynamic, permission-based reporting engine integrated with SAP B1.
-- Automated electronic fiscal document issuance (CT-e, MDF-e), reducing manual effort.
+- Built a dynamic reporting engine integrated with SAP B1.
+- Automated electronic fiscal document issuance (CT-e, MDF-e).
 - Developed high-volume financial automation and bank reconciliation solutions.
 
 ---
@@ -100,10 +99,10 @@ Senior Full-Stack Software Developer with 18+ years of experience designing, cod
 
 ## KEY PROJECTS & ACHIEVEMENTS
 
-- **Dynamic Reporting Engine:** an integrated reporting solution that became the internal standard, with role-based access control.
-- **Fiscal Automation:** add-ons for CT-e and MDF-e issuance with legal compliance and less manual work.
-- **Financial Automation:** electronic billing validation solutions that reduced reconciliation errors.
+- **Dynamic Reporting Engine:** integrated reporting solution that became the internal standard.
+- **Fiscal Automation:** add-ons for CT-e and MDF-e issuance with legal compliance.
+- **Financial Automation:** billing validation solutions that reduced reconciliation errors.
 
 ---
 
-*Updated: 2026-06-18*
+*Updated: 2026-06-28*
