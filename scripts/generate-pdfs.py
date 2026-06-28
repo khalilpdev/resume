@@ -303,14 +303,14 @@ def main():
     REMOTE_JOBS_SOURCE = "REMOTE-JOBS.md"
     FREELANCER_PROJECTS_SOURCE = "FREELANCER-PROJECTS.md"
     documents = [
-        (RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-en-US", "Leandro Khalil - Resume (EN-US)"),
-        (PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-pt-BR", "Leandro Khalil - Currículo (PT-BR)"),
-        (V2_RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-en-US-v2", "Leandro Khalil - Resume v2 (EN-US)"),
-        (V2_PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-pt-BR-v2", "Leandro Khalil - Currículo v2 (PT-BR)"),
-        (V3_RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-en-US-v3", "Leandro Khalil - Resume v3 (EN-US)"),
-        (V3_PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-pt-BR-v3", "Leandro Khalil - Currículo v3 (PT-BR)"),
-        (REMOTE_JOBS_SOURCE, "REMOTE-JOBS-en-US", "Remote Jobs & Freelancer Options (EN-US)"),
-        (FREELANCER_PROJECTS_SOURCE, "FREELANCER-PROJECTS-en-US", "Freelancer Projects Portfolio (EN-US)"),
+        (RESUME_SOURCE, "RESUME-LEANDRO-KHALIL", "Leandro Khalil - Resume"),
+        (PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL", "Leandro Khalil - Currículo"),
+        (V2_RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-v2", "Leandro Khalil - Resume v2"),
+        (V2_PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-v2", "Leandro Khalil - Currículo v2"),
+        (V3_RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-v3", "Leandro Khalil - Resume v3"),
+        (V3_PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-v3", "Leandro Khalil - Currículo v3"),
+        (REMOTE_JOBS_SOURCE, "REMOTE-JOBS", "Remote Jobs & Freelancer Options"),
+        (FREELANCER_PROJECTS_SOURCE, "FREELANCER-PROJECTS", "Freelancer Projects Portfolio"),
     ]
     
     success_count = 0
