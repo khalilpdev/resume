@@ -73,10 +73,10 @@ Histórico de atualizações no portfólio profissional de Leandro Khalil.
 - 🔄 PDFs agora gerados em pasta `pdfs/` separada
 
 ### Generated (PDFs Prontos para Enviar)
-- 📄 `RESUME-LEANDRO-KHALIL-en-US.pdf` (26 KB)
-- 📄 `CURRICULO-LEANDRO-KHALIL-pt-BR.pdf` (27 KB)
-- 📄 `REMOTE-JOBS-en-US.pdf` (74 KB)
-- 📄 `FREELANCER-PROJECTS-en-US.pdf` (91 KB)
+- 📄 `RESUME-LEANDRO-KHALIL.pdf` (26 KB)
+- 📄 `CURRICULO-LEANDRO-KHALIL.pdf` (27 KB)
+- 📄 `REMOTE-JOBS.pdf` (74 KB)
+- 📄 `FREELANCER-PROJECTS.pdf` (91 KB)
 
 ### Improved
 - 🎯 Sistema totalmente automatizado (editar .md → gerar PDF em 1 comando)
