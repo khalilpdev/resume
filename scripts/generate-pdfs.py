@@ -293,15 +293,24 @@ def main():
     print("")
     
     # Define os documentos a gerar
+    RESUME_SOURCE = "resume-LEANDRO-KHALIL.md"
+    # Renamed base file from the last commit.
+    PT_BR_SOURCE = "template.md"
+    V2_RESUME_SOURCE = "versions/v2/resume-LEANDRO-KHALIL.md"
+    V2_PT_BR_SOURCE = "versions/v2/curriculo-LEANDRO-KHALIL-pt-BR.md"
+    V3_RESUME_SOURCE = "versions/v3/resume-LEANDRO-KHALIL.md"
+    V3_PT_BR_SOURCE = "versions/v3/curriculo-LEANDRO-KHALIL-pt-BR.md"
+    REMOTE_JOBS_SOURCE = "REMOTE-JOBS.md"
+    FREELANCER_PROJECTS_SOURCE = "FREELANCER-PROJECTS.md"
     documents = [
-        ("resume-LEANDRO-KHALIL.md", "RESUME-LEANDRO-KHALIL-en-US", "Leandro Khalil - Resume (EN-US)"),
-        ("curriculo-LEANDRO-KHALIL-pt-BR.md", "CURRICULO-LEANDRO-KHALIL-pt-BR", "Leandro Khalil - Currículo (PT-BR)"),
-        ("versions/v2/resume-LEANDRO-KHALIL.md", "RESUME-LEANDRO-KHALIL-en-US-v2", "Leandro Khalil - Resume v2 (EN-US)"),
-        ("versions/v2/curriculo-LEANDRO-KHALIL-pt-BR.md", "CURRICULO-LEANDRO-KHALIL-pt-BR-v2", "Leandro Khalil - Currículo v2 (PT-BR)"),
-        ("versions/v3/resume-LEANDRO-KHALIL.md", "RESUME-LEANDRO-KHALIL-en-US-v3", "Leandro Khalil - Resume v3 (EN-US)"),
-        ("versions/v3/curriculo-LEANDRO-KHALIL-pt-BR.md", "CURRICULO-LEANDRO-KHALIL-pt-BR-v3", "Leandro Khalil - Currículo v3 (PT-BR)"),
-        ("REMOTE-JOBS.md", "REMOTE-JOBS-en-US", "Remote Jobs & Freelancer Options (EN-US)"),
-        ("FREELANCER-PROJECTS.md", "FREELANCER-PROJECTS-en-US", "Freelancer Projects Portfolio (EN-US)"),
+        (RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-en-US", "Leandro Khalil - Resume (EN-US)"),
+        (PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-pt-BR", "Leandro Khalil - Currículo (PT-BR)"),
+        (V2_RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-en-US-v2", "Leandro Khalil - Resume v2 (EN-US)"),
+        (V2_PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-pt-BR-v2", "Leandro Khalil - Currículo v2 (PT-BR)"),
+        (V3_RESUME_SOURCE, "RESUME-LEANDRO-KHALIL-en-US-v3", "Leandro Khalil - Resume v3 (EN-US)"),
+        (V3_PT_BR_SOURCE, "CURRICULO-LEANDRO-KHALIL-pt-BR-v3", "Leandro Khalil - Currículo v3 (PT-BR)"),
+        (REMOTE_JOBS_SOURCE, "REMOTE-JOBS-en-US", "Remote Jobs & Freelancer Options (EN-US)"),
+        (FREELANCER_PROJECTS_SOURCE, "FREELANCER-PROJECTS-en-US", "Freelancer Projects Portfolio (EN-US)"),
     ]
     
     success_count = 0
