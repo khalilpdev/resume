@@ -37,10 +37,10 @@ Sou **Senior Full-Stack Software Developer** e **especialista em C#/.NET e SAP B
 - **Contrato:** Via plataforma (Toptal, Gun.io) ou direto (via contrato formal)
 
 ### Projetos Ideais
-✅ **Migração/Modernização:** Legacy VB.NET → .NET Core, SQL Server → PostgreSQL  
-✅ **Backend & APIs:** APIs robustas, autenticação, integrações com 3ª partes  
-✅ **Integração ERP:** SAP B1 e sistemas customizados  
-✅ **System Modernization:** Refatoração, melhoria de performance e redução de dívida técnica  
+✅ **Migração/Modernização:** Legacy VB.NET → .NET Core, SQL Server → PostgreSQL
+✅ **Backend & APIs:** APIs robustas, autenticação, integrações com 3ª partes
+✅ **Integração ERP:** SAP B1 e sistemas customizados
+✅ **System Modernization:** Refatoração, melhoria de performance e redução de dívida técnica
 ✅ **Architecture Review & Consulting:** Design reviews, performance tuning e decisões técnicas
 
 ### Entrega
