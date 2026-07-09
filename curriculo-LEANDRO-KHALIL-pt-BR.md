@@ -102,7 +102,7 @@ Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projeta
 
 - **Engine de Relatórios Dinâmico:** Projetei e implementei ferramenta de relatórios totalmente integrada que se tornou padrão oficial da empresa, apresentando controles de acesso de usuário baseados em papéis.
 - **Automação Fiscal:** Criei add-ons para emissão de documentos fiscais eletrônicos (CT-e, MDF-e), garantindo conformidade legal e automatizando processos complexos manuais.
-- **Automação Financeira:** Desenvolveu soluções robustas para validação de arquivos de cobrança eletrônica bancária (remessa, retorno, boleto), eliminando erros manuais e aumentando eficiência operacional.
+- **Automação Financeira:** Desenvolvi soluções robustas para validação de arquivos de cobrança eletrônica bancária (remessa, retorno, boleto), eliminando erros manuais e aumentando eficiência operacional.
 
 ---
 
