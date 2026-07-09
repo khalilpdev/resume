@@ -22,10 +22,10 @@ resume/
 │   └── generate-pdfs.py                    # Script Python para gerar PDFs
 │
 ├── pdfs/                                   # 📁 PDFs gerados (ignore no git)
-│   ├── RESUME-LEANDRO-KHALIL-en-US.pdf
-│   ├── CURRICULO-LEANDRO-KHALIL-pt-BR.pdf
-│   ├── REMOTE-JOBS-en-US.pdf
-│   └── FREELANCER-PROJECTS-en-US.pdf
+│   ├── RESUME-LEANDRO-KHALIL.pdf
+│   ├── CURRICULO-LEANDRO-KHALIL.pdf
+│   ├── REMOTE-JOBS.pdf
+│   └── FREELANCER-PROJECTS.pdf
 │
 └── .gitignore                              # Ignora PDFs do versionamento
 ```
@@ -64,10 +64,10 @@ python3 scripts/generate-pdfs.py
 ============================================================
 📄 Gerando PDFs para Resume & Currículo
 ============================================================
-✅ PDF gerado: pdfs/RESUME-LEANDRO-KHALIL-en-US.pdf
-✅ PDF gerado: pdfs/CURRICULO-LEANDRO-KHALIL-pt-BR.pdf
-✅ PDF gerado: pdfs/REMOTE-JOBS-en-US.pdf
-✅ PDF gerado: pdfs/FREELANCER-PROJECTS-en-US.pdf
+✅ PDF gerado: pdfs/RESUME-LEANDRO-KHALIL.pdf
+✅ PDF gerado: pdfs/CURRICULO-LEANDRO-KHALIL.pdf
+✅ PDF gerado: pdfs/REMOTE-JOBS.pdf
+✅ PDF gerado: pdfs/FREELANCER-PROJECTS.pdf
 ============================================================
 ✨ Concluído: 4/4 PDFs gerados
 📁 Localização: pdfs/
@@ -198,12 +198,12 @@ Olá [Recruiter],
 
 Segue em anexo meu resume e portfolio profissional:
 
-📄 Resume (EN-US): RESUME-LEANDRO-KHALIL-en-US.pdf
-📄 Remote Jobs & Options: REMOTE-JOBS-en-US.pdf
-📄 Freelancer Portfolio: FREELANCER-PROJECTS-en-US.pdf
+📄 Resume: RESUME-LEANDRO-KHALIL.pdf
+📄 Remote Jobs & Options: REMOTE-JOBS.pdf
+📄 Freelancer Portfolio: FREELANCER-PROJECTS.pdf
 
 Para PT-BR:
-📄 Currículo (PT-BR): CURRICULO-LEANDRO-KHALIL-pt-BR.pdf
+📄 Currículo: CURRICULO-LEANDRO-KHALIL.pdf
 
 Fico disponível para discussão sobre oportunidades remotas ou projetos freelancer.
 
@@ -219,8 +219,8 @@ khallipdev@gmail.com
 - Marque keywords: #CSharp #NET #SeniorDeveloper #RemoteWork
 
 ### Via Plataformas
-- **Toptal:** Upload do RESUME-LEANDRO-KHALIL-en-US.pdf
-- **Gun.io:** Upload do RESUME-LEANDRO-KHALIL-en-US.pdf
+- **Toptal:** Upload do RESUME-LEANDRO-KHALIL.pdf
+- **Gun.io:** Upload do RESUME-LEANDRO-KHALIL.pdf
 - **LinkedIn:** Link para repositório GitHub
 
 ---
