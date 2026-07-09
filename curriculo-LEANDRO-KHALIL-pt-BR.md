@@ -26,10 +26,10 @@ Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projeta
 ### Desenvolvedor Full Stack C# | Plataforma SaaS de Atendimento | Remoto
 *jan 2024 - Presente*
 
-- Desenvolvedor principal de funcionalidades em tempo real para plataforma SaaS multi-tenant usando **Blazor** e backend **.NET**, aumentando engajamento do cliente e reduzindo tempo de resposta.
+- Desenvolvi funcionalidades em tempo real para plataforma SaaS multi-tenant usando **Blazor** e backend **.NET**, aumentando engajamento do cliente e reduzindo tempo de resposta.
 - Implementei comunicação escalável e de baixa latência usando **SignalR** e **Redis**, gerenciando confiávelmente milhares de conexões de usuários simultâneas.
 - Escrevi e otimizei queries complexas em banco de dados **PostgreSQL** normalizado, melhorando performance de recuperação de dados para funcionalidades críticas.
-- Realizei administração completa de servidor Linux, implantando e orquestrando microsserviços containerizados usando **Docker** no Ubuntu, garantindo 99,9% de uptime.
+- Administrei servidores Linux de ponta a ponta, implantando e orquestrando microsserviços containerizados usando **Docker** no Ubuntu, garantindo 99,9% de uptime.
 
 ### Desenvolvedor Sênior C#/.NET (Especialista em SAP B1) | Invent Software | Goiânia, GO
 *nov 2023 - out 2024*
@@ -40,32 +40,32 @@ Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projeta
 - Otimização de algoritmos em C#/.NET e de provedores para SQL Server e SAP HANA, com foco em performance e redução de tempo de processamento.
 - Apoio na revisão de código de desenvolvedores júnior e pleno, contribuindo para padronização técnica e qualidade das entregas.
 
-### Gerente de Desenvolvimento & Tech Lead | Atacadão Dia a Dia | Goiânia, GO
+### Desenvolvedor Sênior C#/.NET de Integrações | Atacadão Dia a Dia | Goiânia, GO
 *mai 2022 - set 2023*
 
-- Dirigi estratégia técnica e time de desenvolvimento para migração maior do SAP S/4HANA, traduzindo requisitos de negócio em designs técnicos robustos e escaláveis.
-- Orientei time de desenvolvedores, fomentando cultura de excelência técnica e alinhando entregáveis com objetivos estratégicos de negócio para transformação ERP.
-- Colaborei com liderança sênior para definir roadmap de sistemas, priorizando pontos de integração baseados em .NET entre S/4HANA e operações retail legadas.
+- Projetei e implementei pontos de integração baseados em .NET entre o **SAP S/4HANA** e sistemas legados de varejo, traduzindo requisitos de negócio em soluções técnicas robustas e escaláveis.
+- Entreguei componentes backend e rotinas de migração de dados que deram suporte a uma grande migração de ERP mantendo a continuidade operacional.
+- Colaborei com analistas e arquitetos para definir padrões de integração e garantir qualidade consistente nas entregas.
 
-### Gerente de Desenvolvimento | H&CO | Goiânia, GO
+### Desenvolvedor Sênior C#/.NET (Integrações SAP B1) | H&CO | Goiânia, GO
 *ago 2021 - mai 2022*
 
-- Liderou e orientou times de desenvolvimento C# cross-funcionais, gerenciando alocação de recursos e entrega de projetos para múltiplos projetos de integração SAP B1 simultâneos.
-- Defini e apliquei melhores práticas para desenvolvimento de APIs usando SAP DI API e Service Layer, criando interfaces limpas e mantíveis entre SAP B1 e sistemas de logística de terceiros.
-- Deescalei com sucesso issues críticos de cliente ao reestruturar prioridades de projeto e implementar processos rigorosos de code review.
+- Desenvolvi APIs limpas e mantíveis usando o **SAP DI API** e **Service Layer**, integrando o SAP B1 com sistemas de logística de terceiros.
+- Defini padrões de código e práticas de revisão que melhoraram a confiabilidade das integrações e reduziram incidentes em produção.
+- Entreguei múltiplos projetos de integração SAP B1 simultâneos no prazo, incluindo correções críticas que restauraram as operações dos clientes.
 
-### Gerente de Desenvolvimento SAP B1 | Run Sistemas | Goiânia, GO
+### Desenvolvedor SAP B1 Sênior | Run Sistemas | Goiânia, GO
 *2016 - ago 2021*
 
-- Construí e liderei time de alto desempenho de desenvolvedores desde zero para projetar, construir e manter suite de add-ons customizados do SAP Business One.
-- Transicionei time de add-ons monolíticos ligados à UI API para abordagem desacoplada orientada a serviços usando Service Layer, melhorando estabilidade e compatibilidade de upgrades.
-- Supervisionar SDLC completo para múltiplos produtos principais, melhorando dramaticamente automação de processos de warehouse e financeiros para clientes.
+- Projetei, construí e mantive uma suite de add-ons customizados do SAP Business One usada por clientes corporativos de varejo e finanças.
+- Migrei add-ons monolíticos ligados à UI API para abordagem desacoplada orientada a serviços usando **Service Layer**, melhorando estabilidade e compatibilidade de upgrades.
+- Gerenciei o ciclo completo de desenvolvimento de múltiplos produtos, entregando automação de processos de warehouse e financeiros.
 
-### Desenvolvedor SAP Sênior / Tech Lead | Invent Software | Goiânia, GO
+### Desenvolvedor SAP Sênior | Invent Software | Goiânia, GO
 *2013 - 2016*
 
-- Promovido de Developer a Tech Lead, assumindo propriedade de portfolio de soluções customizadas requerendo desenvolvimento avançado em C#, .NET e SQL Server.
-- Projetei e revisei arquitetura crítica para integrações ERP, garantindo performance e confiabilidade para operações de clientes com uso intenso de dados.
+- Desenvolvi e mantive um portfólio de soluções customizadas de ERP usando desenvolvimento avançado em C#, .NET e SQL Server.
+- Projetei arquiteturas de integração e revisei caminhos críticos de código para garantir performance e confiabilidade para operações de clientes com uso intenso de dados.
 
 ### Analista de Sistemas & Desenvolvedor C# .NET | Milênio Distribuidora | Goiânia, GO
 *jun 2007 - jan 2013*

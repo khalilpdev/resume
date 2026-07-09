@@ -26,10 +26,10 @@ Accomplished Senior Full-Stack Software Developer with over 18 years of experien
 ### Full Stack C# Developer | SaaS Customer Service Platform | Remote
 *Jan 2024 - Present*
 
-- Lead developer building real-time features for a multi-tenant SaaS platform using **Blazor** and a **.NET** backend, enhancing customer engagement and reducing response times.
+- Built real-time features for a multi-tenant SaaS platform using **Blazor** and a **.NET** backend, enhancing customer engagement and reducing response times.
 - Engineered scalable, low-latency communication using **SignalR** and **Redis**, reliably handling thousands of concurrent user connections.
 - Wrote and optimized complex queries on a normalized **PostgreSQL** database, improving data retrieval performance for mission-critical features.
-- Managed full Linux server administration, deploying and orchestrating containerized microservices using **Docker** on Ubuntu, ensuring 99.9% uptime.
+- Administered Linux servers end-to-end, deploying and orchestrating containerized microservices using **Docker** on Ubuntu, ensuring 99.9% uptime.
 
 ### Senior C#/.NET Developer (SAP B1 Specialist) | Invent Software | Goiânia, GO
 *Nov 2023 - Oct 2024*
@@ -40,32 +40,32 @@ Accomplished Senior Full-Stack Software Developer with over 18 years of experien
 - Optimized C#/.NET algorithms and SQL providers for SQL Server and SAP HANA, improving performance and reducing tax-processing time.
 - Supported code reviews for junior and mid-level developers, helping maintain technical consistency and delivery quality.
 
-### Development Manager & Technical Lead | Atacadão Dia a Dia | Goiânia, GO
+### Senior C#/.NET Integration Developer | Atacadão Dia a Dia | Goiânia, GO
 *May 2022 - Sep 2023*
 
-- Directed the technical strategy and development team for a major SAP S/4HANA migration, translating business requirements into robust, scalable technical designs.
-- Mentored a team of developers, fostering a culture of technical excellence and aligning deliverables with strategic business goals for the ERP transformation.
-- Collaborated with senior leadership to define the systems roadmap, prioritizing .NET-based integration points between S/4HANA and legacy retail operations.
+- Designed and implemented .NET-based integration points between **SAP S/4HANA** and legacy retail systems, translating business requirements into robust, scalable technical solutions.
+- Delivered backend components and data migration routines that supported a major ERP migration while maintaining operational continuity.
+- Collaborated with analysts and architects to define integration standards and ensure consistent delivery quality.
 
-### Development Manager | H&CO | Goiânia, GO
+### Senior C#/.NET Developer (SAP B1 Integrations) | H&CO | Goiânia, GO
 *Aug 2021 - May 2022*
 
-- Led and mentored cross-functional C# development teams, managing resource allocation and project delivery for multiple concurrent SAP B1 integration projects.
-- Defined and enforced best practices for API development using the SAP DI API and Service Layer, creating clean, maintainable interfaces between SAP B1 and third-party logistics systems.
-- Successfully de-escalated critical client issues by restructuring project priorities and implementing rigorous code review processes.
+- Developed clean, maintainable APIs using the **SAP DI API** and **Service Layer**, integrating SAP B1 with third-party logistics systems.
+- Defined coding standards and review practices that improved integration reliability and reduced production incidents.
+- Delivered multiple concurrent SAP B1 integration projects on time, including critical fixes that restored client operations.
 
-### SAP B1 Developer Manager | Run Sistemas | Goiânia, GO
+### Senior SAP B1 Developer | Run Sistemas | Goiânia, GO
 *2016 - Aug 2021*
 
-- Built and led a high-performing team of developers from the ground up to design, build, and maintain a suite of custom SAP Business One add-ons.
-- Transitioned the team from monolithic, UI-API-bound add-ons to a decoupled, service-oriented approach using the Service Layer, improving system stability and upgrade compatibility.
-- Oversaw the full SDLC for multiple major products, dramatically improving warehouse and financial process automation for clients.
+- Designed, built, and maintained a suite of custom SAP Business One add-ons used by corporate clients in retail and finance.
+- Migrated monolithic, UI-API-bound add-ons to a decoupled, service-oriented approach using the **Service Layer**, improving system stability and upgrade compatibility.
+- Owned the full development lifecycle of multiple products, delivering automation for warehouse and financial processes.
 
-### Senior SAP Developer / Team Lead | Invent Software | Goiânia, GO
+### Senior SAP Developer | Invent Software | Goiânia, GO
 *2013 - 2016*
 
-- Promoted from Developer to Team Lead, taking ownership of a portfolio of custom solutions requiring advanced C#, .NET, and SQL Server development.
-- Designed and reviewed critical architecture for ERP integrations, ensuring performance and reliability for data-intensive client operations.
+- Developed and maintained a portfolio of custom ERP solutions using advanced C#, .NET, and SQL Server.
+- Designed integration architectures and reviewed critical code paths to ensure performance and reliability for data-intensive client operations.
 
 ### Systems Analyst & C# .NET Developer | Milênio Distribuidora | Goiânia, GO
 *Jun 2007 - Jan 2013*
