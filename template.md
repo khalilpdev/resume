@@ -12,11 +12,12 @@ Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projeta
 
 ## HABILIDADES TÉCNICAS
 
-- **Linguagens & Frameworks:** C#, .NET Core/.NET 5+, ASP.NET, Blazor, MAUI, LINQ, Entity Framework Core, SignalR
-- **Backend & Full-Stack:** Design de APIs REST, Desenvolvimento Full-Stack, Arquitetura Orientada a Eventos, Microserviços, Clean Architecture
-- **Cloud-Native:** Docker, Redis, Linux, Azure, AWS
+- **Linguagens & Frameworks:** C#, .NET Framework, .NET Core/.NET 5+, ASP.NET, Blazor, MAUI, LINQ, Entity Framework Core, SignalR
+- **Backend & Full-Stack:** Design de APIs REST, Desenvolvimento e Testes de APIs Robustas, Desenvolvimento Full-Stack, Arquitetura Orientada a Eventos, Microserviços, Clean Architecture
+- **Cloud-Native & Azure:** Docker, Redis, Linux, Azure, AWS, Azure APIM (API Management), Azure Service Bus
 - **Plataformas ERP & Integração:** SAP Business One (UI API, DI API, Service Layer), SAP S/4HANA
-- **Bancos de Dados:** PostgreSQL, Microsoft SQL Server (2005-2022), SAP HANA (SQL Script), T-SQL, Otimização de Stored Procedures
+- **Bancos de Dados:** PostgreSQL, Microsoft SQL Server (2005-2022) — Queries, Stored Procedures, Performance Tuning, SAP HANA (SQL Script), T-SQL
+- **DevOps & CI/CD:** GitHub Actions, Azure DevOps
 - **Ferramentas & Conceitos:** Git, Visual Studio, Ubuntu Server, Agile/Scrum, POO, Design Patterns, Clean Code
 
 ---
@@ -106,4 +107,4 @@ Desenvolvedor Full-Stack Sênior com **mais de 18 anos de experiência** projeta
 
 ---
 
-*Atualizado: 2026-06-18*
+*Atualizado: 2026-07-30*
